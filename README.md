@@ -1,2 +1,0 @@
-# awesome-pbc
-awesome pbc
